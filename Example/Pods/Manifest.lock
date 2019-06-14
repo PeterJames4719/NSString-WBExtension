@@ -1,0 +1,16 @@
+PODS:
+  - NSString-WBExtension (0.1.0)
+
+DEPENDENCIES:
+  - NSString-WBExtension (from `../`)
+
+EXTERNAL SOURCES:
+  NSString-WBExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSString-WBExtension: 550aa6812b6888520addedb53fb36f11d86c1434
+
+PODFILE CHECKSUM: c4568435666a7d14ec04cf855666206878c64a74
+
+COCOAPODS: 1.7.1

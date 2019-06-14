@@ -1,0 +1,22 @@
+{
+  "name": "NSString-WBExtension",
+  "version": "0.1.0",
+  "summary": "A short description of NSString-WBExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PeterJames4719/NSString-WBExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PeterJames4719": "daasan123@163.com"
+  },
+  "source": {
+    "git": "https://github.com/PeterJames4719/NSString-WBExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSString-WBExtension/Classes/**/*"
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'NSString-WBExtension_Example' do
+  pod 'NSString-WBExtension', :path => '../'
+
+  target 'NSString-WBExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
