@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/PeterJames4719/NSString-Extension'
+  s.homepage         = 'https://github.com/PeterJames4719/NSString-WBExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'PeterJames4719' => 'daasan123@163.com' }
-  s.source           = { :git => 'https://github.com/PeterJames4719/NSString-Extension.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/PeterJames4719/NSString-WBExtension.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
